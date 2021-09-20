@@ -17,6 +17,7 @@ button{
     font-size:1.2rem;
     margin: 0 auto;
     padding:10px;
+    cursor: pointer;
 }
 #output{
     width: 60%;
@@ -24,6 +25,7 @@ button{
     border:1px solid black;
     margin:20px auto;
     background-color: white;
+    font-size:2rem;
 }
 h1{
     text-align:center;
@@ -35,4 +37,8 @@ header{
     padding:30px;
     text-align: center;
     color: white;
+}
+h3{
+    color: white;
+    text-align: center;
 }
