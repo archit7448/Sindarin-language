@@ -6,4 +6,4 @@
 #### CSS3
 #### Javascript
 ----
-#### If you like it give star✨
+#### Don't forget to give star✨ if you like it.
